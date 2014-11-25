@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+.nav {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  display: table;
+  height: 20%;
+  text-align: center;
+  width: 100%;
+}
+
+.nav-item--10 {
+  background: #bbb;
+}
+
+.nav-item--15 {
+  background: #ccc;
+}
+
+.nav-item--20 {
+  background: #ddd;
+}
+
+.nav-item--25 {
+  background: #eee;
+}
+
+.nav-item--30 {
+  background: #fff;
+}
+
+.nav-item__value {
+  display: table-cell;
+  font-size: 20px;
+  vertical-align: middle;
+}
